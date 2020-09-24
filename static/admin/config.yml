@@ -39,6 +39,7 @@ collections:
         }
       - { label: "External URL for projects", name: "externalURL", widget: "string" }
 
+
   - name: "pages"
     label: "Pages"
     files:
